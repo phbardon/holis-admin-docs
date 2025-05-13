@@ -22,9 +22,7 @@ const sidebars = {
       collapsed: false,
       items: [
         'intro',
-        'fiche-synthese',
-        'carte-decision',
-        'coordination'
+        'summary'
       ],
     },
   ],
