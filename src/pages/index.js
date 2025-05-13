@@ -7,7 +7,7 @@ export default function Home() {
       <main style={{ padding: '2rem' }}>
         <h1>Bienvenue sur la documentation HOLIS</h1>
         <p>
-          Accédez à <a href="/holis-admin-docs/fiche-synthese">la fiche de synthèse</a>
+          Accédez à <a href="/holis-admin-docs/summary">la fiche de synthèse</a>
         </p>
       </main>
     </Layout>
