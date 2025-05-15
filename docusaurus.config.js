@@ -81,9 +81,39 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'holisSidebar',
+            sidebarId: 'crewSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'CREW',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'crewSidebar',
+            position: 'left',
+            label: 'ECL',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'gocSidebar',
+            position: 'left',
+            label: 'GOC',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'MCCSidebar',
+            position: 'left',
+            label: 'MCC',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'occSidebar',
+            position: 'left',
+            label: 'OCC',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'opsSidebar',
+            position: 'left',
+            label: 'OPS',
           },
 //          {to: '/blog', label: 'Blog', position: 'left'},
           {
